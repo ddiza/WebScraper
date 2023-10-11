@@ -10,5 +10,5 @@ For this task we will web scrape article titles and assigned URLs listed in The 
 Common questions:
 - This tutorial assumes you have nodemon installed globally on your computer. If you do not, use command: npm i nodemon -g
 
-![Screenshot of VSCode Terminal]
+## Screenshot in VSCode Terminal:
 ![Scraped_Items.jpg](https://github.com/ddiza/WebScraper/blob/main/images/Scraped_Items.jpg)

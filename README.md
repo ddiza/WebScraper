@@ -9,3 +9,5 @@ For this task we will web scrape article titles and assigned URLs listed in The 
 
 Common questions:
 - This tutorial assumes you have nodemon installed globally on your computer. If you do not, use command: npm i nodemon -g
+
+![](images/filename$20Scraped_Items.jpg)
